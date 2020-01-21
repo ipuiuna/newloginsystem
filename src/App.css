@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #825542;
+  /*background-image: url('./assets/img/desktop.png');
+  background-position: top center;
+  background-repeat: no-repeat;*/
+}
+
+.MuiFab-root.login-buton {
+  color: #825542;
+  font-weight: 700;
+}
+
+.MuiFab-root.login-buton:hover {
+  background-color: #f5a800;
+  color: #fff;
+}
+
+.login-label {
+  padding: 0px 20px;
+}
